@@ -12,3 +12,6 @@ Custom extensions for the <a href="http://www.denispahunov.ru/MapMagic/">Map Mag
 - **Regular Spaced** - outputs a series of object locations in a regular grid, based on a specified X and Z spacing. 
 
 - **1D Scatter** - a modification of the built-in scatter generator that only places object locations along a line of fixed Z axis.
+
+# Usage
+Simply download and copy to anywhere in your project's Assets folder. The new generator types will appear under the "Custom" menu option of the MapMagic editor window.
