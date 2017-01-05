@@ -20,7 +20,7 @@ Simply download and copy to anywhere in your project's Assets folder. The new ge
 The following graph has a 2/3 chance of creating desert, and a 1/3 chance of creating swamp biome.
 ![Chance](https://raw.githubusercontent.com/alastaira/MapMagicExtensions/master/Docs/MMX_chance.png)
 
-The following graph has an equal chance of Constant, Noise, or Voronoi generators being used to create the heightmap.
+The following graph picks either the Constant, Noise, or Voronoi generator to create the heightmap, with equal probability.
 ![Pick](https://raw.githubusercontent.com/alastaira/MapMagicExtensions/master/Docs/MMX_pick.png)
 
 The following graph places a single cube on the terrain at coordinates somewhere between (300,120) and (400,150).
