@@ -15,3 +15,12 @@ Custom extensions for the <a href="http://www.denispahunov.ru/MapMagic/">Map Mag
 
 # Usage
 Simply download and copy to anywhere in your project's Assets folder. The new generator types will appear under the "Custom" menu option of the MapMagic editor window.
+
+The following graph has a 2/3 chance of creating desert, and a 1/3 chance of creating grasslands.
+![Chance](https://raw.githubusercontent.com/alastaira/MapMagicExtensions/master/Docs/MMX_chance.png)
+
+The following graph has an equal chance of each of the three methods of specifying the heightmap.
+![Pick](https://raw.githubusercontent.com/alastaira/MapMagicExtensions/master/Docs/MMX_pick.png)
+
+The following graph places a single cube somewhere between (300,120) and (400,150).
+![Pick](https://raw.githubusercontent.com/alastaira/MapMagicExtensions/master/Docs/MMX_singlepoint.png)
